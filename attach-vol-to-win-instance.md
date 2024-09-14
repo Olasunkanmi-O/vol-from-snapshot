@@ -29,7 +29,7 @@
 13. Delete the volume that was attached.
 ![](./13.disk-delete.png)
 ![](./14.vol-delete.png)
-14. Create new volume from the snapshot that was created in action 12.
+14. Create new volume from the snapshot that was created in action 12. From the side menu, choose snapshot, then create volume from the particular snapshot
 ![](./15create-vol.png)
 15. Attach the newly created volume to the windows instance and verify the folders that were created in the previous volume. The volume has been successfully restored 
 ![](./17attach-vol.png)
